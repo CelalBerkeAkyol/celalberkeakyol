@@ -19,20 +19,21 @@
 </p>
 
 ---
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=celalberkeakyol&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" width="55%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celalberkeakyol&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" width="44%">
-</p>
-
----
-
 ## 👨‍💻 About Me  
 🔭 I’m currently working on **a financial application for the Turkish stock market.**  
 🌱 Learning **Data Science and ML.**  
 👥 Open to collaborating on **web development, AI, and fintech projects.**  
 🤔 Looking for help with **Advanced ML algorithms for Finance.**  
+
+
+
+---
+## 📊 GitHub Stats
+
+  <img src="https://github-readme-stats.vercel.app/api?username=celalberkeakyol&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="55%">
+
+
+
 
 
 ---
