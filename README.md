@@ -30,7 +30,7 @@
 ---
 ## 📊 GitHub Stats
 
-  <img src="https://github-readme-stats.vercel.app/api?username=celalberkeakyol&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="55%">
+  <img src="https://github-readme-stats.vercel.app/api?username=celalberkeakyol&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="60%">
 
 
 
