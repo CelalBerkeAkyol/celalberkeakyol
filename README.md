@@ -1,10 +1,5 @@
 <h1 align="center">Hi, I'm Celal Berke Akyol 👋</h1>
-<h3 align="center">Machine Learning Engineer </h3>
-
-<p align="center">
-  I transform raw data from 'guesses' and 'assumptions' into <strong>'knowledge'</strong> and <strong>'competitive advantage'</strong>.<br>
-  I build <strong>intelligent, end-to-end applications</strong>, with a special focus on the <strong>FinTech sector</strong>.
-</p>
+<h3 align="center">Software Developer </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/celal-berke-akyol-389a3a216/" target="_blank">
@@ -12,10 +7,6 @@
   </a>
   <a href="mailto:buscberke@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  
-  <a href="https://www.kaggle.com/celalberkeakyol" target="_blank">
-    <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
   </a>
  <a href="https://www.cassandra.com.tr/" target="_blank">
   <img src="https://img.shields.io/badge/-Cassandra.com.tr-4A90E2?style=for-the-badge" alt="cassandra.com.tr">
@@ -77,10 +68,5 @@ A selection of technologies and tools I am proficient with:
   <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
 </p>
 
----
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=celalberkeakyol&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats">
-</p>
